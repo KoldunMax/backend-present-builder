@@ -117,6 +117,7 @@
     "engines": {
         "node": ">=0.10.0"
     },
+    "subdomain": "codefish",
     "scripts": {
         "start": "node server/app.js",
         "test": "grunt test",
