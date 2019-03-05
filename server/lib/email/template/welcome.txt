@@ -1,0 +1,9 @@
+Welcome to {{APP_NAME}}  
+
+Hi , 
+
+You account has been created on  {{APP_NAME}}. 
+
+Your username is : {{USERNAME}}
+
+Your password is : {{PASSWORD}}

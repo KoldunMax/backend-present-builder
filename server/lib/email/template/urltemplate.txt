@@ -1,0 +1,5 @@
+Information {{APP_NAME}}  
+
+Hi
+
+Information about presentation.

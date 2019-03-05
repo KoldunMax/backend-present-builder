@@ -1,0 +1,3 @@
+Hello ,
+
+Love is in air. Celebrate valentine day on {{APP_NAME}} with your dear ones.

@@ -1,0 +1,10 @@
+
+---------------------------------------------------
+
+This email was intended for  {{EMAIL}}
+
+You are receiving this email because you are/were using Presentation Builder.
+
+To un-subscribe from all emails, you will need to delete your account on {{APP_NAME}}
+
+

@@ -1,0 +1,13 @@
+
+{
+    "presentations": [{
+        "verb": "POST",
+        "path": "",
+        "permissions": []
+    }, {
+        "verb": "GET",
+        "path": "",
+        "permissions": []
+    }]
+    
+}

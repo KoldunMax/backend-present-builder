@@ -1,0 +1,3 @@
+Hello,  
+
+Your friend {{SENDER_NAME}} has invited you to join {{APP_NAME}}. 

@@ -1,0 +1,96 @@
+[
+{"name" : "Country", "key" : "COUNTRY", "codes" :[
+	{"name" :"United States", "code":"USA"}
+]},
+
+{"name" : "State", "key" : "STATE", "codes" :[
+	{"name" :"Alabama", "code":"AL"},
+	{"name" :"Alaska", "code":"AK"},
+	{"name" :"Arizona", "code":"AZ"},
+	{"name" :"Arkansas", "code":"AR"},
+	{"name" :"California", "code":"CA"},
+	{"name" :"Colorado", "code":"CO"},
+	{"name" :"Connecticut", "code":"CT"},
+	{"name" :"Delaware", "code":"DE"},
+	{"name" :"District of Columbia", "code":"DC"},
+	{"name" :"Florida", "code":"FL"},
+	{"name" :"Georgia", "code":"GA"},
+	{"name" :"Hawaii", "code":"HI"},
+	{"name" :"Idaho", "code":"ID"},
+	{"name" :"Illinois", "code":"IL"},
+	{"name" :"Indiana", "code":"IN"},
+	{"name" :"Iowa", "code":"IA"},
+	{"name" :"Kansas", "code":"KS"},
+	{"name" :"Kentucky", "code":"KY"},
+	{"name" :"Louisiana", "code":"LA"},
+	{"name" :"Maine", "code":"ME"},
+	{"name" :"Montana", "code":"MT"},
+	{"name" :"Nebraska", "code":"NE"},
+	{"name" :"Nevada", "code":"NV"},
+	{"name" :"New Hampshire", "code":"NH"},
+	{"name" :"New Jersey", "code":"NJ"},
+	{"name" :"New Mexico", "code":"NM"},
+	{"name" :"New York", "code":"NY"},
+	{"name" :"North Carolina", "code":"NC"},
+	{"name" :"North Dakota", "code":"ND"},
+	{"name" :"Ohio", "code":"OH"},
+	{"name" :"Oklahoma", "code":"OK"},
+	{"name" :"Oregon", "code":"OR"},
+	{"name" :"Maryland", "code":"MD"},
+	{"name" :"Massachusetts", "code":"MA"},
+	{"name" :"Michigan", "code":"MI"},
+	{"name" :"Minnesota", "code":"MN"},
+	{"name" :"Mississippi", "code":"MS"},
+	{"name" :"Missouri", "code":"MO"},
+	{"name" :"Pennsylvania", "code":"PA"},
+	{"name" :"Rhode Island", "code":"RI"},
+	{"name" :"South Carolina", "code":"SC"},
+	{"name" :"South Dakota", "code":"SD"},
+	{"name" :"Tennessee", "code":"TN"},
+	{"name" :"Texas", "code":"TX"},
+	{"name" :"Utah", "code":"TN"},
+	{"name" :"Tennessee", "code":"UT"},
+	{"name" :"Vermont", "code":"VT"},
+	{"name" :"Virginia", "code":"VA"},
+	{"name" :"Washington", "code":"WA"},
+	{"name" :"West Virginia", "code":"WV"},
+	{"name" :"Wisconsin", "code":"WI"},
+	{"name" :"Wyoming", "code":"WY"}
+	
+]},
+
+{"name" : "Location", "key" : "LOCATION", "codes" :[
+	{"name" :"Top", "code":"TOP"},
+	{"name" :"Bottom", "code":"BOTTOM"},
+	{"name" :"Left", "code":"LEFT"},
+	{"name" :"Right", "code":"RIGHT"}
+]},
+
+{"name" : "Layout", "key" : "LAYOUT", "codes" :[
+	{"name" :"1 x 1", "code":"1 x 1"},
+	{"name" :"1 x 2", "code":"1 x 2"},
+	{"name" :"2 x 1", "code":"2 x 1"},
+	{"name" :"2 x 2", "code":"2 x 2"}
+]},
+
+{"name" : "Content type", "key" : "CONTENTTYPE", "codes" :[
+	{"name" :"Image", "code":"IMAGE"},
+	{"name" :"Audio", "code":"AUDIO"},
+	{"name" :"Video", "code":"VIDEO"},
+	{"name" :"Text editor", "code":"TEXT"}
+]},
+
+{"name" : "Contract term", "key" : "CONTRACTTERM", "codes" :[
+	{"name" :"Month to Month", "code":"1"},
+	{"name" :"12 Months", "code":"2"},
+	{"name" :"24 Months", "code":"3"}
+]},
+
+{"name" : "role", "key" : "ROLE", "codes" :[
+	{"name" :"superadmin", "code":"SUPERADMIN"},
+	{"name" :"Admin", "code":"ADMIN"},
+	{"name" :"Editor", "code":"EDITOR"},
+	{"name" :"User", "code":"USER"}
+]}
+
+]
